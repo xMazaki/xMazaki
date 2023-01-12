@@ -1,6 +1,7 @@
 <div id="header" align="center">
 
-## :man: Mazaki 
+# 👨‍🔧 ~ Mazaki ~ 👨‍🔧
+  
 [![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://twitter.com/mazaki_eth)
 [![discord](https://img.shields.io/badge/discord--lightgrey?style=social&logo=discord)](Mazaki#1598)
 [![website](https://img.shields.io/badge/website--lightgrey?style=social&logo=website)](https://mazaki.fr)
@@ -8,6 +9,7 @@
 Developer and Sysadmin, <b>passionate</b> about IT and new technologies.<br />
 Also in <i>cryptocurrency</i> since 2017 and learning about Solidity.<br />
 <b>White Hat</b> - Pentester and Bug Bounty Hunter<br />
+🇫🇷 Based in <b>France</b> ♥️
 
 ### :point_right: Skills
 #### Langages / Frameworks
