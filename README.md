@@ -7,7 +7,7 @@
 [![website](https://img.shields.io/badge/website--lightgrey?style=social&logo=website)](https://mazaki.fr)
 
 Developer and Sysadmin, <b>passionate</b> about IT and new technologies.<br />
-Also in <i>cryptocurrency</i> since 2017 and learning about Solidity.<br />
+Also in <i>cryptocurrency</i> since 2017 and Solidity developer.<br />
 <b>White Hat</b> - Pentester and Bug Bounty Hunter<br />
 🇫🇷 Based in <b>France</b> ♥️
 
