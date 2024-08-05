@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/mazaki_eth" target="blank"><img src="https://img.shields.io/twitter/follow/mazaki_eth?logo=twitter&style=for-the-badge" alt="mazaki_eth" /></a> </p>
 
-- 🔭 I’m currently working on [Synthify.app](https://synhtify.app)
-
-- 👯 I’m collaborate with [TNFT](https://tnft.fr)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mazaki_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazaki_eth" height="30" width="40" /></a>
