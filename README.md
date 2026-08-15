@@ -24,9 +24,6 @@ de la première maquette à la mise en production.
 
 <table>
   <tr>
-    <td width="104" align="center">
-      <img src="https://dev.klubizz.com/public/web-app-manifest-192x192.png" width="68" height="68" alt="Klubizz" />
-    </td>
     <td>
       <h3>Klubizz</h3>
       L'alternative française et souveraine à Skool. Communautés, contenus et
